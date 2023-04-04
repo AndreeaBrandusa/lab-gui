@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7584f48c-7dc5-430c-ae70-4eeda5670b49" name="Changes" comment="lab2" />
+    <list default="true" id="7584f48c-7dc5-430c-ae70-4eeda5670b49" name="Changes" comment="lab5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab2/lab2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab2/tema2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab3/lab3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab3/tema3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/lab4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/tema4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab5/lab5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab5/tema5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/BitmapLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/ResourceRetriever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/TextureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/TextureReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/lab6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/BitmapLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/BitmapLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/tema6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/ResourceRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/ResourceRetriever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/TextureHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/TextureHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/TextureReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/TextureReader.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +44,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,14 +60,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "D:/s6/gui/lab/gui-lab/src/main/java/org/gui/lab4",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\s6\gui\lab\gui-lab\src\main\java\org\gui\lab4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\s6\gui\lab\gui-lab\src\main\java\org\gui\lab4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.gui.lab6" />
+      <recent name="org.gui.lab5" />
+      <recent name="org.gui.lab4" />
+      <recent name="org.gui.lab3" />
+      <recent name="org.gui.lab2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.gui.Test" />
+      <module name="gui-lab.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +111,35 @@
       <option name="project" value="LOCAL" />
       <updated>1678811928253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lab2">
+      <created>1678812233824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678812233824</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lab3">
+      <created>1678813745413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678813745413</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab4">
+      <created>1679419694500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679419694500</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab5">
+      <created>1680019654835</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680019654835</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,7 +155,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
+    <MESSAGE value="lab3" />
+    <MESSAGE value="lab4" />
+    <MESSAGE value="lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

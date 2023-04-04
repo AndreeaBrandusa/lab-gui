@@ -1,4 +1,4 @@
-package org.gui;
+package org.gui.lab2;
 
 import com.jogamp.opengl.*;
 import com.jogamp.opengl.awt.GLCanvas;
@@ -8,9 +8,9 @@ import com.jogamp.opengl.util.Animator;
 import javax.swing.*;
 import java.awt.*;
 
-public class MainFrame extends JFrame implements GLEventListener
+public class lab2 extends JFrame implements GLEventListener
 {
-    public MainFrame()
+    public lab2()
     {
         super("Java OpenGL");
 
@@ -113,6 +113,7 @@ public class MainFrame extends JFrame implements GLEventListener
         gl.glColor3f(1.0f, 1.0f, 1.0f);
         gl.glVertex2f(0.4f, 0.4f);
         gl.glEnd();
+
 
         gl.glFlush();
     }
