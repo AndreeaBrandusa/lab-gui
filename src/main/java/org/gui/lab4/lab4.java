@@ -94,7 +94,7 @@ public class lab4 extends JFrame implements GLEventListener
 
         // Read the texture from the image.
         try {
-            tex[0] = TextureReader.readTexture("path/to/your/image/here");
+            tex[0] = TextureReader.readTexture("texturi/textura2.jpg");
         } catch (IOException e) {
             e.printStackTrace();
             throw new RuntimeException(e);
@@ -108,9 +108,9 @@ public class lab4 extends JFrame implements GLEventListener
 
         // Read the texture from the image.
         try {
-            tex[0] = TextureReader.readTexture("path/to/your/image/here");
+            tex[0] = TextureReader.readTexture("texturi/textura2.jpg");
             // This line reads another image that will be used to replace a part of the previous
-            tex[1] = TextureReader.readTexture("path/to/your/second/image/here");
+            tex[1] = TextureReader.readTexture("texturi/textura3.jpg");
         } catch (IOException e) {
             e.printStackTrace();
             throw new RuntimeException(e);

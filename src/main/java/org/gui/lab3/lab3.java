@@ -105,14 +105,14 @@ public class lab3 extends JFrame implements GLEventListener
 
         // Define vertices in clockwise order (back-faced).
         gl.glBegin(GL2.GL_POLYGON);
-        gl.glColor3f(1.f, 0.f, 0.f);
-        gl.glVertex2f(0.2f, 0.2f);
-        gl.glColor3f(0.f, 1.f, 0.f);
-        gl.glVertex2f(0.2f, 0.4f);
-        gl.glColor3f(0.f, 0.f, 1.f);
-        gl.glVertex2f(0.4f, 0.4f);
-        gl.glColor3f(1.f, 1.f, 1.f);
-        gl.glVertex2f(0.4f, 0.2f);
+            gl.glColor3f(1.f, 0.f, 0.f);
+            gl.glVertex2f(0.2f, 0.2f);
+            gl.glColor3f(0.f, 1.f, 0.f);
+            gl.glVertex2f(0.2f, 0.4f);
+            gl.glColor3f(0.f, 0.f, 1.f);
+            gl.glVertex2f(0.4f, 0.4f);
+            gl.glColor3f(1.f, 1.f, 1.f);
+            gl.glVertex2f(0.4f, 0.2f);
         gl.glEnd();
 
         // Disable polygon stipple.
@@ -124,10 +124,10 @@ public class lab3 extends JFrame implements GLEventListener
         gl.glBegin(GL2.GL_LINES);
             gl.glVertex2f(0.2f, 0.2f);
             gl.glVertex2f(0.9f, 0.9f);
-            gl.glEnd();
+        gl.glEnd();
 
-            gl.glColor3f(0.f, 1.f, 0.f);
-            gl.glBegin(GL2.GL_LINES);
+        gl.glColor3f(0.f, 1.f, 0.f);
+        gl.glBegin(GL2.GL_LINES);
             gl.glVertex2f(0.9f, 0.2f);
             gl.glVertex2f(0.2f, 0.9f);
         gl.glEnd();

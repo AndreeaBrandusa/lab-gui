@@ -4,27 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7584f48c-7dc5-430c-ae70-4eeda5670b49" name="Changes" comment="lab5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab2/lab2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab2/tema2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab3/lab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab3/tema3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/lab4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/tema4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab5/lab5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab5/tema5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/BitmapLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/ResourceRetriever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/TextureHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/TextureReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/lab6.java" afterDir="false" />
+    <list default="true" id="7584f48c-7dc5-430c-ae70-4eeda5670b49" name="Changes" comment="lab6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab7/lab7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab8/lab8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab9/lab9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/SolarSystemObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/SolarSystemProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/Sun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/Texture/BitmapLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/Texture/ResourceRetriever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/Texture/TextureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/Texture/TextureReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texturi/textura.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texturi/textura0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texturi/textura1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texturi/textura2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texturi/textura3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texturi/textura4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texturi/textura5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/BitmapLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/BitmapLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/tema6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/ResourceRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/ResourceRetriever.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/TextureHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/TextureHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/TextureReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/TextureReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/lab3/lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab3/lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/lab4/lab4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/lab4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/lab6/TextureReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/TextureReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +39,27 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gui-lab" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,34 +75,42 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2Mh5cvRPOaE4Fh415FO5J9gDr0n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "D:/s6/gui/lab/gui-lab/src/main/java/org/gui/lab4",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;D:/s6/gui/lab/gui-lab/texturi&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\s6\gui\lab\gui-lab\texturi" />
+      <recent name="D:\s6\gui\lab\gui-lab\src\main\java\org\gui\proiect" />
       <recent name="D:\s6\gui\lab\gui-lab\src\main\java\org\gui\lab4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\s6\gui\lab\gui-lab" />
+      <recent name="D:\s6\gui\lab\gui-lab\src\texturi" />
+      <recent name="D:\s6\gui\lab\gui-lab\src\main\java\org\gui\proiect" />
       <recent name="D:\s6\gui\lab\gui-lab\src\main\java\org\gui\lab4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.gui.lab8" />
+      <recent name="org.gui.lab7" />
       <recent name="org.gui.lab6" />
       <recent name="org.gui.lab5" />
       <recent name="org.gui.lab4" />
-      <recent name="org.gui.lab3" />
-      <recent name="org.gui.lab2" />
     </key>
   </component>
   <component name="RunManager">
@@ -139,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680019654835</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lab6">
+      <created>1680625463151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680625463151</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,7 +194,8 @@
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4" />
     <MESSAGE value="lab5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab5" />
+    <MESSAGE value="lab6" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

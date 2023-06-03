@@ -1,12 +1,13 @@
-package org.gui.lab6;
+package org.gui.proiect.Texture;
 
+import com.jogamp.common.nio.Buffers;
+
+import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.awt.image.PixelGrabber;
 import java.io.IOException;
 import java.nio.ByteBuffer;
-import javax.imageio.ImageIO;
-import com.jogamp.common.nio.Buffers;
- 
+
 public class TextureReader {
  
 	public static Texture readTexture(String filename) throws IOException {
@@ -20,6 +21,7 @@ public class TextureReader {
 		} else {
 			bufferedImage = readImage(filename);
 		}
+ 
 		return readPixels(bufferedImage, storeAlphaChannel);
 	}
  
