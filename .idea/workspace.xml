@@ -4,30 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7584f48c-7dc5-430c-ae70-4eeda5670b49" name="Changes" comment="lab6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab7/lab7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab8/lab8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab9/lab9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/SolarSystemObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/SolarSystemProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/Sun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/Texture/BitmapLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/Texture/ResourceRetriever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/Texture/TextureHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/Texture/TextureReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texturi/textura.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texturi/textura0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texturi/textura1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texturi/textura2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texturi/textura3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texturi/textura4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texturi/textura5.jpg" afterDir="false" />
+    <list default="true" id="7584f48c-7dc5-430c-ae70-4eeda5670b49" name="Changes" comment="Add project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/lab3/lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab3/lab3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/lab4/lab4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab4/lab4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/lab6/TextureReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/lab6/TextureReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/SolarSystemObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/SolarSystemObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/SolarSystemProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/SolarSystemProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/Sun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gui/proiect/SolarSystem/Sun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680625463151</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add project">
+      <created>1685750511612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685750511612</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +184,8 @@
     <MESSAGE value="lab4" />
     <MESSAGE value="lab5" />
     <MESSAGE value="lab6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab6" />
+    <MESSAGE value="Add project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
